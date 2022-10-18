@@ -1,4 +1,4 @@
-# Bank-management-system-project♥♥♥♥♥♥♥♥
+# Bank-management-system-project♥
 Aim: To develop a C++ program for Bank Management System using Object Oriented Programming concepts such as Class and Object, Switch case, File Handling.
 
 Objective: To explore principles of programming. To use the object oriented paradigm in program design. To lay foundation to advanced programming.

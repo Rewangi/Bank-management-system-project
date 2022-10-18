@@ -10,9 +10,15 @@ Bank: A bank is a financial institution licensed to receive deposits and make lo
 Project: This project provides the following functionalities:
 
 1.Create new Account
+
 2.Deposit amount to Account
+
 3.Withdraw amount from Account
+
 4.Balance Enquiry
+
 5.Display list of Account Holders
+
 6.Delete an Account
+
 7.Modify the existing Account
